@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вячеслав Журавлев](https://up.htmlacademy.ru/javascript/19/user/272331).
-* Наставник: `Неизвестно`.
+* Наставник: Без наставника.
 
 ---
 
